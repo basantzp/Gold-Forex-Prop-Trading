@@ -1,0 +1,15 @@
+{
+  "name": "Gold Forex Prop Trading Master Roadmap",
+  "short_name": "Gold Forex Prop",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

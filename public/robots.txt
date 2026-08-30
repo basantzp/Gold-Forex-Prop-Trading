@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basantzp.github.io/Gold-Forex-Prop-Trading/sitemap.xml
